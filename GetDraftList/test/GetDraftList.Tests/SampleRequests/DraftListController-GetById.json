@@ -1,0 +1,33 @@
+{
+  "resource": "/{proxy+}",
+  "headers": null,
+  "queryStringParameters": null,
+  "stageVariables": null,
+  "requestContext": {
+    "http": {
+      "method": "GET",
+      "path": "/api/DraftList/12345",
+      "protocol": "HTTPS"
+    },
+    "accountId": "AAAAAAAAAAAA",
+    "resourceId": "5agfss",
+    "stage": "test-invoke-stage",
+    "requestId": "test-invoke-request",
+    "identity": {
+      "cognitoIdentityPoolId": null,
+      "accountId": "AAAAAAAAAAAA",
+      "cognitoIdentityId": null,
+      "caller": "BBBBBBBBBBBB",
+      "apiKey": "test-invoke-api-key",
+      "sourceIp": "test-invoke-source-ip",
+      "cognitoAuthenticationType": null,
+      "cognitoAuthenticationProvider": null,
+      "userArn": "arn:aws:iam::AAAAAAAAAAAA:root",
+      "userAgent": "Apache-HttpClient/4.5.x (Java/1.8.0_102)",
+      "user": "AAAAAAAAAAAA"
+    },
+    "resourcePath": "/{proxy+}",
+    "apiId": "t2yh6sjnmk"
+  },
+  "body": null
+}
