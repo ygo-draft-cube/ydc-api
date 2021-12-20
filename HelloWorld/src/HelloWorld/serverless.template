@@ -5,6 +5,16 @@
   "Parameters": {},
   "Conditions": {},
   "Resources": {
+    "ResourceGroup": {
+      "Type": "AWS::ResourceGroups::Group",
+      "Properties": {
+        "Description": "YGO Draft SLS group - Hello World",
+        "Name": "ygo-draft-api-functions-hello-world",
+        "ResourceQuery": {
+          "Type": "CLOUDFORMATION_STACK_1_0"
+        }
+      }
+    },
     "AspNetCoreFunction": {
       "Type": "AWS::Serverless::Function",
       "Properties": {
@@ -14,7 +24,7 @@
             "/lambda-entrypoint.sh"
           ],
           "Command": [
-            "GetDraftList::GetDraftList.LambdaEntryPoint::FunctionHandlerAsync"
+            "HelloWorld::HelloWorld.LambdaEntryPoint::FunctionHandlerAsync"
           ]
         },
         "ImageUri": "",
@@ -25,17 +35,17 @@
           "AWSLambda_FullAccess"
         ],
         "Events": {
-          "ProxyResource": {
-            "Type": "Api",
+          "RootResource": {
+            "Type": "HttpApi",
             "Properties": {
-              "Path": "/{proxy+}",
+              "Path": "/api/hello-world",
               "Method": "ANY"
             }
           },
-          "RootResource": {
-            "Type": "Api",
+          "ProxyResource": {
+            "Type": "HttpApi",
             "Properties": {
-              "Path": "/",
+              "Path": "/api/hello-world/{proxy+}",
               "Method": "ANY"
             }
           }
@@ -45,14 +55,6 @@
         "Dockerfile": "Dockerfile",
         "DockerContext": ".",
         "DockerTag": ""
-      }
-    }
-  },
-  "Outputs": {
-    "ApiURL": {
-      "Description": "API endpoint URL for Prod environment",
-      "Value": {
-        "Fn::Sub": "https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/"
       }
     }
   }

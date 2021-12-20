@@ -9,14 +9,12 @@ using Amazon.Lambda.TestUtilities;
 using Amazon.Lambda.APIGatewayEvents;
 using Amazon.Lambda.AspNetCoreServer;
 using Newtonsoft.Json;
-using GetDraftList;
-using GetDraftList.Models;
-using JsonConverter = System.Text.Json.Serialization.JsonConverter;
+using DraftList;
 
 
-namespace GetDraftList.Tests
+namespace DraftList.Tests
 {
-    public class ValuesControllerTests
+    public class DraftListTests
     {
         [Fact]
         public async Task TestGet()
@@ -28,10 +26,10 @@ namespace GetDraftList.Tests
             var context = new TestLambdaContext();
             var response = await lambdaFunction.FunctionHandlerAsync(request, context);
             var status = response.StatusCode;
-            var body = JsonConvert.DeserializeObject<DraftList>(response.Body);
+            var body = JsonConvert.DeserializeObject<Models.DraftList>(response.Body);
 
             Assert.Equal(200, status);
-            Assert.Equal("12345",body.Id);
+            Assert.Equal("12345", body.Id);
             Assert.True(body.List.Contains("46986414"), "Draft List is missing 46986414");
         }
     }

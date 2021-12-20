@@ -401,3 +401,4 @@ FodyWeavers.xsd
 
 # Custom
 .idea
+DraftList/src/DraftList/.aws-sam/

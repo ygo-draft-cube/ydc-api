@@ -1,0 +1,61 @@
+{
+  "AWSTemplateFormatVersion": "2010-09-09",
+  "Transform": "AWS::Serverless-2016-10-31",
+  "Description": "An AWS Serverless Application that uses the ASP.NET Core framework running in Amazon Lambda.",
+  "Parameters": {},
+  "Conditions": {},
+  "Resources": {
+    "ResourceGroup": {
+      "Type": "AWS::ResourceGroups::Group",
+      "Properties": {
+        "Description": "YGO Draft SLS group - Draft List",
+        "Name": "ygo-draft-api-functions-draft-list",
+        "ResourceQuery": {
+          "Type": "CLOUDFORMATION_STACK_1_0"
+        }
+      }
+    },
+    "AspNetCoreFunction": {
+      "Type": "AWS::Serverless::Function",
+      "Properties": {
+        "PackageType": "Image",
+        "ImageConfig": {
+          "EntryPoint": [
+            "/lambda-entrypoint.sh"
+          ],
+          "Command": [
+            "DraftList::DraftList.LambdaEntryPoint::FunctionHandlerAsync"
+          ]
+        },
+        "ImageUri": "",
+        "MemorySize": 256,
+        "Timeout": 3,
+        "Role": null,
+        "Policies": [
+          "AWSLambda_FullAccess"
+        ],
+        "Events": {
+          "RootResource": {
+            "Type": "HttpApi",
+            "Properties": {
+              "Path": "/api/DraftList",
+              "Method": "ANY"
+            }
+          },
+          "ProxyResource": {
+            "Type": "HttpApi",
+            "Properties": {
+              "Path": "/api/DraftList/{proxy+}",
+              "Method": "ANY"
+            }
+          }
+        }
+      },
+      "Metadata": {
+        "Dockerfile": "Dockerfile",
+        "DockerContext": ".",
+        "DockerTag": ""
+      }
+    }
+  }
+}

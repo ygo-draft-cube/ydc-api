@@ -1,4 +1,4 @@
-﻿namespace GetDraftList.Models
+﻿namespace DraftList.Models
 {
     public record DbFileContent
     {
