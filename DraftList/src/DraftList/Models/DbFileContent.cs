@@ -1,7 +1,0 @@
-﻿namespace DraftList.Models
-{
-    public record DbFileContent
-    {
-        public DraftList[] DraftLists { get;  set; }
-    }
-}
