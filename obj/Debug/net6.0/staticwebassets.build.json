@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uDpKl/dKPVLMdhOxCH5d5ufC7GnSgpRPNWrM2BlH/bA=",
+  "Source": "ydc-api",
+  "BasePath": "_content/ydc-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
