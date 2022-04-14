@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ratha\\OneDrive\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.UnitTests\\YugiohDraftCube.UnitTests.csproj": {}
+    "D:\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.UnitTests\\YugiohDraftCube.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ratha\\OneDrive\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.UnitTests\\YugiohDraftCube.UnitTests.csproj": {
+    "D:\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.UnitTests\\YugiohDraftCube.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ratha\\OneDrive\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.UnitTests\\YugiohDraftCube.UnitTests.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.UnitTests\\YugiohDraftCube.UnitTests.csproj",
         "projectName": "YugiohDraftCube.UnitTests",
-        "projectPath": "C:\\Users\\Ratha\\OneDrive\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.UnitTests\\YugiohDraftCube.UnitTests.csproj",
-        "packagesPath": "C:\\Users\\Ratha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ratha\\OneDrive\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.UnitTests\\obj\\",
+        "projectPath": "D:\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.UnitTests\\YugiohDraftCube.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ratha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
