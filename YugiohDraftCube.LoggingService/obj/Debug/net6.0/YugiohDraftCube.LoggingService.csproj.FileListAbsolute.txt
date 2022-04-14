@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\bin\Debug\net6.0\YugiohDraftCube.LoggingService.deps.json
+C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\bin\Debug\net6.0\YugiohDraftCube.LoggingService.dll
+C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\bin\Debug\net6.0\YugiohDraftCube.LoggingService.pdb
+C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.AssemblyInfo.cs
+C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.dll
+C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\obj\Debug\net6.0\refint\YugiohDraftCube.LoggingService.dll
+C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.pdb
+C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\obj\Debug\net6.0\ref\YugiohDraftCube.LoggingService.dll

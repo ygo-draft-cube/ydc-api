@@ -97,4 +97,7 @@ public class CubeService : ICubeService
         
         return listOfCards;
     }
+
+    public async Task<CubeDto> GetFeaturedCube(GetFeaturedCubeInputDto getFeaturedCubeInputDto)
+    { }
 }

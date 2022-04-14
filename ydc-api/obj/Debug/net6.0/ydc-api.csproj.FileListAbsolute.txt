@@ -60,3 +60,34 @@ C:\Users\Ratha\OneDrive\Documents\GitHub\ydc-api\ydc-api\obj\Debug\net6.0\refint
 C:\Users\Ratha\OneDrive\Documents\GitHub\ydc-api\ydc-api\obj\Debug\net6.0\ydc-api.pdb
 C:\Users\Ratha\OneDrive\Documents\GitHub\ydc-api\ydc-api\obj\Debug\net6.0\ydc-api.genruntimeconfig.cache
 C:\Users\Ratha\OneDrive\Documents\GitHub\ydc-api\ydc-api\obj\Debug\net6.0\ref\ydc-api.dll
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\appsettings.json
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\ydc-api.exe
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\ydc-api.deps.json
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\ydc-api.runtimeconfig.json
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\ydc-api.dll
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\ydc-api.pdb
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\YugiohDraftCube.CubeService.dll
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\YugiohDraftCube.Domain.dll
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\YugiohDraftCube.CubeService.pdb
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\bin\Debug\net6.0\YugiohDraftCube.Domain.pdb
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\ydc-api.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\ydc-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\ydc-api.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\ydc-api.AssemblyInfo.cs
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\ydc-api.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\ydc-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\ydc-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\scopedcss\bundle\ydc-api.styles.css
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\ydc-api.csproj.CopyComplete
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\ydc-api.dll
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\refint\ydc-api.dll
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\ydc-api.pdb
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\ydc-api.genruntimeconfig.cache
+C:\Users\David\Desktop\Yugioh Cube\ydc-api\obj\Debug\net6.0\ref\ydc-api.dll

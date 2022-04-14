@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ratha\\.nuget\\packages\\": {}
+    "C:\\Users\\David\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ratha\\OneDrive\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.Authorization\\YugiohDraftCube.Authorization.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.Authorization\\YugiohDraftCube.Authorization.csproj",
       "projectName": "YugiohDraftCube.Authorization",
-      "projectPath": "C:\\Users\\Ratha\\OneDrive\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.Authorization\\YugiohDraftCube.Authorization.csproj",
-      "packagesPath": "C:\\Users\\Ratha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ratha\\OneDrive\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.Authorization\\obj\\",
+      "projectPath": "D:\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.Authorization\\YugiohDraftCube.Authorization.csproj",
+      "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\GitHub\\ydc-api\\YugiohDraftCube.Authorization\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Ratha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
