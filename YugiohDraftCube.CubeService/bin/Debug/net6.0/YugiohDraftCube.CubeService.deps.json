@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "YugiohDraftCube.CubeService/1.0.0": {
+        "dependencies": {
+          "YugiohDraftCube.Domain": "1.0.0"
+        },
+        "runtime": {
+          "YugiohDraftCube.CubeService.dll": {}
+        }
+      },
+      "YugiohDraftCube.Domain/1.0.0": {
+        "runtime": {
+          "YugiohDraftCube.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YugiohDraftCube.CubeService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YugiohDraftCube.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

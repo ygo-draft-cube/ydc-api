@@ -1,0 +1,15 @@
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\bin\Debug\net6.0\YugiohDraftCube.CubeService.deps.json
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\bin\Debug\net6.0\YugiohDraftCube.CubeService.dll
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\bin\Debug\net6.0\YugiohDraftCube.CubeService.pdb
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\bin\Debug\net6.0\YugiohDraftCube.Domain.dll
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\bin\Debug\net6.0\YugiohDraftCube.Domain.pdb
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.csproj.AssemblyReference.cache
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.AssemblyInfoInputs.cache
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.AssemblyInfo.cs
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.csproj.CoreCompileInputs.cache
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.csproj.CopyComplete
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.dll
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\refint\YugiohDraftCube.CubeService.dll
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.pdb
+C:\Users\Ratha\source\repos\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\ref\YugiohDraftCube.CubeService.dll
