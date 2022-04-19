@@ -26,15 +26,15 @@ public class CubesController : ControllerBase
         return response;
     }
 
-    [HttpGet("cubes/{cubeID}")]
-    public async Task<CubeDto> GetCubes2Async(InputDto id)
+    [HttpGet("cubes/{cube_id}")]
+    public async Task<CubeDto> GetCubeByIdAsync(int cube_id)
     {
-        var response = await _cubesService.GetCubeByIdAsync(id);
+        var response = await _cubesService.GetCubeByIdAsync(cube_id);
 
         return response;
     }
 
-    [HttpPost("cubes/draft")]
+    [HttpPost("cube/draft")]
     public async Task<CubeResponseDto> PostDraftAsync(CubeDto cube)
     {
         var response = await _cubesService.PostDraftAsync(cube);
@@ -48,7 +48,7 @@ public class CubesController : ControllerBase
         return NoContent();
     }
 
-    [HttpPost("cubes")]
+    [HttpPost("cube")]
     public async Task<IActionResult> CreateCubeAsync(CreateCubeInputDto createCubeInputDto)
     {
         var response = await _cubesService.CreateCubeAsync(createCubeInputDto);

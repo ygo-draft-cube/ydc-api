@@ -6,8 +6,8 @@ public interface ICubeService
 {
     public Task<List<CubeDto>> GetCubesAsync();
     public Task<CubeResponseDto> PostDraftAsync(CubeDto cube);
-    public Task<CubeDto> GetCubeByIdAsync(InputDto input);
-    public Task<List<CardsDto>> CreateCubeAsync(CreateCubeInputDto createCubeInput);
+    public Task<CubeDto> GetCubeByIdAsync(int input);
+    public Task<List<CardDto>> CreateCubeAsync(CreateCubeInputDto createCubeInput);
 }
 
 public class CubeService : ICubeService
@@ -35,7 +35,7 @@ public class CubeService : ICubeService
         listOfCubes.Add(new CubeDto
         {
             Id = 1,
-            Name = "Dark Magician",
+            Name = "Magician Cube",
             Description = "Big Magician Cube",
             Createdby = "David2"
         });
@@ -43,53 +43,52 @@ public class CubeService : ICubeService
         return listOfCubes;
     }
 
-    public async Task<CubeDto> GetCubeByIdAsync(InputDto input)
+    public async Task<CubeDto> GetCubeByIdAsync(int id)
     {
         List<CubeDto> listOfCubes = new List<CubeDto>();
         listOfCubes.Add(new CubeDto
         {
             Id = 0,
-            Name = "Blue Eyes White Dragon",
-            Description = "Big Dragon",
+            Name = "Dragon Cube",
+            Description = "Big Dragon Cube",
             Createdby = "David"
         });
 
         listOfCubes.Add(new CubeDto
         {
             Id = 1,
-            Name = "Dark Magician",
-            Description = "Big Magician",
+            Name = "Magician Cube",
+            Description = "Big Magician Cube",
             Createdby = "David2"
         });
-
         listOfCubes.Add(new CubeDto
         {
             Id = 2,
-            Name = "Kuribo",
-            Description = "Big Kuribo",
+            Name = "Kuribo Cube",
+            Description = "Big Kuribo cube",
             Createdby = "David3"
         });
 
-        return listOfCubes[input.Id];
+        return listOfCubes[id];
     }
 
-    public async Task<List<CardsDto>> CreateCubeAsync(CreateCubeInputDto createCubeInput)
+    public async Task<List<CardDto>> CreateCubeAsync(CreateCubeInputDto createCubeInput)
     {
-        List<CardsDto> listOfCards = new List<CardsDto>();
+        List<CardDto> listOfCards = new List<CardDto>();
 
-        CardsDto card = new CardsDto();
+        CardDto card = new CardDto();
         card.Id = createCubeInput.CardIDs[0];
         card.name = "Kuriboh";
         card.image = "https://static.wikia.nocookie.net/yugioh/images/4/47/Scapegoat-OW.png/revision/latest?cb=20140619032211";
         listOfCards.Add(card);
 
-        CardsDto card2 = new CardsDto();
+        CardDto card2 = new CardDto();
         card2.Id = createCubeInput.CardIDs[1];
         card2.name = "Dark Magician";
         card2.image = "https://static.wikia.nocookie.net/yugioh/images/4/47/Scapegoat-OW.png/revision/latest?cb=20140619032211";
         listOfCards.Add(card2);
 
-        CardsDto card3 = new CardsDto();
+        CardDto card3 = new CardDto();
         card3.Id = createCubeInput.CardIDs[2];
         card3.name = "Magic Dragon";
         card3.image = "https://static.wikia.nocookie.net/yugioh/images/4/47/Scapegoat-OW.png/revision/latest?cb=20140619032211";
