@@ -28,3 +28,18 @@ C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.CubeService\obj\Debug\net6.0\
 C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.CubeService\obj\Debug\net6.0\refint\YugiohDraftCube.CubeService.dll
 C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.pdb
 C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.CubeService\obj\Debug\net6.0\ref\YugiohDraftCube.CubeService.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.AssemblyInfo.cs
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\refint\YugiohDraftCube.CubeService.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.pdb
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\bin\Debug\net6.0\YugiohDraftCube.CubeService.deps.json
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\bin\Debug\net6.0\YugiohDraftCube.CubeService.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\bin\Debug\net6.0\YugiohDraftCube.CubeService.pdb
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\bin\Debug\net6.0\YugiohDraftCube.Domain.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\bin\Debug\net6.0\YugiohDraftCube.Domain.pdb
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\YugiohDraftCube.CubeService.csproj.CopyComplete
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.CubeService\obj\Debug\net6.0\ref\YugiohDraftCube.CubeService.dll

@@ -1,0 +1,12 @@
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.DraftRoomService\bin\Debug\net6.0\YugiohDraftCube.DraftRoomService.deps.json
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.DraftRoomService\bin\Debug\net6.0\YugiohDraftCube.DraftRoomService.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.DraftRoomService\bin\Debug\net6.0\YugiohDraftCube.DraftRoomService.pdb
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.DraftRoomService\obj\Debug\net6.0\YugiohDraftCube.DraftRoomService.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.DraftRoomService\obj\Debug\net6.0\YugiohDraftCube.DraftRoomService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.DraftRoomService\obj\Debug\net6.0\YugiohDraftCube.DraftRoomService.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.DraftRoomService\obj\Debug\net6.0\YugiohDraftCube.DraftRoomService.AssemblyInfo.cs
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.DraftRoomService\obj\Debug\net6.0\YugiohDraftCube.DraftRoomService.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.DraftRoomService\obj\Debug\net6.0\YugiohDraftCube.DraftRoomService.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.DraftRoomService\obj\Debug\net6.0\refint\YugiohDraftCube.DraftRoomService.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.DraftRoomService\obj\Debug\net6.0\YugiohDraftCube.DraftRoomService.pdb
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.DraftRoomService\obj\Debug\net6.0\ref\YugiohDraftCube.DraftRoomService.dll

@@ -33,7 +33,7 @@ public class CubesController : ControllerBase
 
         return response;
     }
-
+    
     [HttpPost("cubes/draft")]
     public async Task<CubeResponseDto> PostDraftAsync(CubeDto cube)
     {

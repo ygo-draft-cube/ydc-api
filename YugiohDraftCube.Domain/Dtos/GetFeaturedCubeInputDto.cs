@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using YugiohDraftCube.Domain.Models;
 
 namespace YugiohDraftCube.Domain.Dtos
 {
-    internal class GetFeaturedCubeInputDto
+    public class GetFeaturedCubeInputDto
     {
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public string Format { get; set; }
+        public int Id { get; set; }
+
+        public List<int> CubeIDs { get; set; }
+
     }
 }

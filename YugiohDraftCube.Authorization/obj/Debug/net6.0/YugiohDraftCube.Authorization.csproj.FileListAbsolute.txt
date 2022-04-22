@@ -1,0 +1,12 @@
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Authorization\bin\Debug\net6.0\YugiohDraftCube.Authorization.deps.json
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Authorization\bin\Debug\net6.0\YugiohDraftCube.Authorization.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Authorization\bin\Debug\net6.0\YugiohDraftCube.Authorization.pdb
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Authorization\obj\Debug\net6.0\YugiohDraftCube.Authorization.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Authorization\obj\Debug\net6.0\YugiohDraftCube.Authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Authorization\obj\Debug\net6.0\YugiohDraftCube.Authorization.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Authorization\obj\Debug\net6.0\YugiohDraftCube.Authorization.AssemblyInfo.cs
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Authorization\obj\Debug\net6.0\YugiohDraftCube.Authorization.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Authorization\obj\Debug\net6.0\YugiohDraftCube.Authorization.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Authorization\obj\Debug\net6.0\refint\YugiohDraftCube.Authorization.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Authorization\obj\Debug\net6.0\YugiohDraftCube.Authorization.pdb
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Authorization\obj\Debug\net6.0\ref\YugiohDraftCube.Authorization.dll

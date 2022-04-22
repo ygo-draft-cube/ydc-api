@@ -22,3 +22,15 @@ C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.Domain\obj\Debug\net6.0\Yugio
 C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.Domain\obj\Debug\net6.0\refint\YugiohDraftCube.Domain.dll
 C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.Domain\obj\Debug\net6.0\YugiohDraftCube.Domain.pdb
 C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.Domain\obj\Debug\net6.0\ref\YugiohDraftCube.Domain.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Domain\bin\Debug\net6.0\YugiohDraftCube.Domain.deps.json
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Domain\bin\Debug\net6.0\YugiohDraftCube.Domain.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Domain\bin\Debug\net6.0\YugiohDraftCube.Domain.pdb
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Domain\obj\Debug\net6.0\YugiohDraftCube.Domain.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Domain\obj\Debug\net6.0\YugiohDraftCube.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Domain\obj\Debug\net6.0\YugiohDraftCube.Domain.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Domain\obj\Debug\net6.0\YugiohDraftCube.Domain.AssemblyInfo.cs
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Domain\obj\Debug\net6.0\YugiohDraftCube.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Domain\obj\Debug\net6.0\YugiohDraftCube.Domain.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Domain\obj\Debug\net6.0\refint\YugiohDraftCube.Domain.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Domain\obj\Debug\net6.0\YugiohDraftCube.Domain.pdb
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.Domain\obj\Debug\net6.0\ref\YugiohDraftCube.Domain.dll

@@ -10,3 +10,15 @@ C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\obj\Debug\net6
 C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\obj\Debug\net6.0\refint\YugiohDraftCube.LoggingService.dll
 C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.pdb
 C:\Users\David\Desktop\Yugioh Cube\YugiohDraftCube.LoggingService\obj\Debug\net6.0\ref\YugiohDraftCube.LoggingService.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.LoggingService\bin\Debug\net6.0\YugiohDraftCube.LoggingService.deps.json
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.LoggingService\bin\Debug\net6.0\YugiohDraftCube.LoggingService.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.LoggingService\bin\Debug\net6.0\YugiohDraftCube.LoggingService.pdb
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.AssemblyInfo.cs
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.LoggingService\obj\Debug\net6.0\refint\YugiohDraftCube.LoggingService.dll
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.LoggingService\obj\Debug\net6.0\YugiohDraftCube.LoggingService.pdb
+D:\Documents\GitHub\ydc-api\YugiohDraftCube.LoggingService\obj\Debug\net6.0\ref\YugiohDraftCube.LoggingService.dll

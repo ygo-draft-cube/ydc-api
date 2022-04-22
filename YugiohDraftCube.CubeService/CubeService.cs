@@ -8,6 +8,7 @@ public interface ICubeService
     public Task<CubeResponseDto> PostDraftAsync(CubeDto cube);
     public Task<CubeDto> GetCubeByIdAsync(InputDto input);
     public Task<List<CardsDto>> CreateCubeAsync(CreateCubeInputDto createCubeInput);
+    public Task<List<CubeDto>> GetFeaturedCubeAsync(GetFeaturedCubeInputDto getFeaturedCubeInputDto);
 }
 
 public class CubeService : ICubeService
@@ -98,6 +99,17 @@ public class CubeService : ICubeService
         return listOfCards;
     }
 
-    public async Task<CubeDto> GetFeaturedCube(GetFeaturedCubeInputDto getFeaturedCubeInputDto)
-    { }
+    public async Task<List<CubeDto>> GetFeaturedCubeAsync(GetFeaturedCubeInputDto getFeaturedCubeInput)
+    { 
+        List<CubeDto> listOfFeaturedCubes = new List<CubeDto>();
+
+        GetFeaturedCubeInputDto featuredCube = new GetFeaturedCubeInputDto();
+        featuredCube.Id = getFeaturedCubeInput.CubeIDs[0];
+        featuredCube.Name = "Fusion";
+        featuredCube.Description = "Only Fusion monsters";
+        featuredCube.Format = "Fusions";
+
+        return listOfFeaturedCubes;
+
+    }
 }
